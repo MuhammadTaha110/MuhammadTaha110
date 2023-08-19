@@ -1,4 +1,4 @@
-CSS Assignmnet 2 
+CSS Assignment 2 
 
 https://restaurantwebsitemuhammadtaha.netlify.app/
 <!---
